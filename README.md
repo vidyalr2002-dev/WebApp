@@ -1,1 +1,1 @@
-# WebApp
+To develop a web application that replicates the core functionalities and user interface of Google Sheets. The application should focus on mathematical and data quality functions, data entry, and basic spreadsheet interactions, while ensuring ease of use and accuracy.
